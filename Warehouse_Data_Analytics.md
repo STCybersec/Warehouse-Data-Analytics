@@ -23,4 +23,7 @@ The analysis focused on **product damages, stock movement, and operational effic
 
 ---
 
-🔗 **See Report & Projects:** [STCybersec on GitHub](https://github.com/STCybersec)  
+## 📥 Note
+The PDF file is large. You can download it by clicking the **three dots** on the top-right of the file viewer.  
+
+🔗 **See Report & Project:** [Company Core PDF on GitHub](https://github.com/STCybersec/Warehouse-Data-Analytics/blob/main/CompanyCore.pdf)
